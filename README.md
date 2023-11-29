@@ -23,3 +23,40 @@ This repository contains a drowsiness detection model based on YOLOv5, a state-o
 - dlib
 
 Install the required dependencies:
+
+## Usage
+
+1. **Clone the repository:**
+
+    ```bash
+    git clone https://github.com/amith7025/drowsiness-detection-model.git
+    cd drowsiness-detection-yolov5
+    ```
+
+2. **Run the drowsiness detection script:**
+
+    ```bash
+    python drowsiness_detection.py
+    ```
+
+3. **Enjoy real-time drowsiness detection!**
+
+## Customization
+
+- **Training:** You can fine-tune the model on your specific dataset.
+- **Parameters:** Adjust drowsiness detection parameters in `drowsiness_detection.py`.
+- **YOLOv5:** Refer to the [YOLOv5 documentation](https://github.com/ultralytics/yolov5) for customization options.
+- **OpenCV:** Utilize the OpenCV library for additional image processing and computer vision tasks.
+- **PyTorch:** Utilize the flexibility of PyTorch for further customization and model modifications.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+- YOLOv5 Community: [https://github.com/ultralytics/yolov5](https://github.com/ultralytics/yolov5)
+- OpenCV: [https://opencv.org/](https://opencv.org/)
+- PyTorch: [https://pytorch.org/](https://pytorch.org/)
+
+Feel free to contribute or open issues if you encounter any problems. Happy coding!
