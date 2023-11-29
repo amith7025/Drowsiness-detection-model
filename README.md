@@ -40,7 +40,6 @@ Install the required dependencies:
 ## Customization
 
 - **Training:** You can fine-tune the model on your specific dataset.
-- **Parameters:** Adjust drowsiness detection parameters in `drowsiness_detection.py`.
 - **YOLOv5:** Refer to the [YOLOv5 documentation](https://github.com/ultralytics/yolov5) for customization options.
 - **OpenCV:** Utilize the OpenCV library for additional image processing and computer vision tasks.
 - **PyTorch:** Utilize the flexibility of PyTorch for further customization and model modifications.
