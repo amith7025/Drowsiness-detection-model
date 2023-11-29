@@ -33,13 +33,9 @@ Install the required dependencies:
     cd drowsiness-detection-yolov5
     ```
 
-2. **Run the drowsiness detection script:**
-
-    ```bash
-    python drowsiness_detection.py
     ```
 
-3. **Enjoy real-time drowsiness detection!**
+2. **Enjoy real-time drowsiness detection!**
 
 ## Customization
 
